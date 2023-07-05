@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Obed Rayo</h1>
+<h1 align="center"> I'm Obed Rayo :raised_hand_with_fingers_splayed: </h1>
 <h3 align="center">A passionate software developer with expertise in full-stack web development, specializing in backend technologies.</h3>
 
 - 🔭 I’m currently working on **my web site**
@@ -18,6 +18,10 @@
 - 📄 Know about my experiences [resume](https://obedrav.dev/resume)
 
 - ⚡ Fun fact **My first program wasn't a "Hello, World!"**
+
+### Website
+
+Visit my [website](https://www.obedrav.dev) to learn more about me and explore my portfolio.
 
 🎯 **Open to Collaborations:**
 
