@@ -19,9 +19,9 @@
 
 - ⚡ Fun fact **My first program wasn't a "Hello, World!"**
 
-### Website
+:globe_with_meridians: **Website**
 
-Visit my [website](https://www.obedrav.dev) to learn more about me and explore my portfolio.
+- Visit my [website](https://obedrav.dev) to learn more about me and explore my portfolio.
 
 🎯 **Open to Collaborations:**
 
