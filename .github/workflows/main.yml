@@ -21,7 +21,7 @@ jobs:
     steps:
       # Generates a snake game from your GitHub contributions graph, outputting an SVG animation
       - name: Generate GitHub contribution snake SVG
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v2.2.1
         with:
           github_user_name: ObedRav
           outputs: |
