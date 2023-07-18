@@ -21,12 +21,14 @@ jobs:
     steps:
       # Generates a snake game from your GitHub contributions graph, outputting an SVG animation
       - name: Generate GitHub contribution snake SVG
-        uses: docker://platane/snk@sha256:bd0f7538482216785abbee29da431738f5ea9aff9fc3a4b8df37708a808f0968
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Pushes the generated SVG to the output branch
       # The content will be available at https://raw.githubusercontent.com/<your-github-username>/<repository>/<target_branch>/<file>, or as a GitHub page
