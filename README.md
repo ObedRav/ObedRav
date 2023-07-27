@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Reps](https://github.com/ObedRav?tab=repositories)
 
-- 💬 Ask me about **Python, backend technologies, scalability, APIs, security, and authentication**
+- 💬 Ask me about **Python, backend technologies, scalability, APIs, security, and authentication.**
 
 - 📫 How to reach me **rayovianamiltonobed@gmail.com**
 
