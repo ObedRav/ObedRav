@@ -1,6 +1,6 @@
 <h1 align="center"> WELCOME!! :raised_hand_with_fingers_splayed: </h1>
 
-![Header](./github-header-image.png)
+![Header](./github-header-image-2.png)
 
 <h3 align="center">A passionate software developer with expertise in full-stack web development, specializing in backend technologies.</h3>
 
