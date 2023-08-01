@@ -1,9 +1,6 @@
-<h1 align="center"> I'm Obed Rayo :raised_hand_with_fingers_splayed: </h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObedRav/ObedRav/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ObedRav/ObedRav/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ObedRav/ObedRav/output/github-contribution-grid-snake.svg">
-</picture>
+<h1 align="center"> WELCOME!! :raised_hand_with_fingers_splayed: </h1>
+
+![Header](./github-header-image.png)
 
 <h3 align="center">A passionate software developer with expertise in full-stack web development, specializing in backend technologies.</h3>
 
@@ -42,6 +39,12 @@
 - Enthusiastic about contributing to open-source projects and the developer community.
 
 Let's connect and build something amazing together!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObedRav/ObedRav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ObedRav/ObedRav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ObedRav/ObedRav/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
